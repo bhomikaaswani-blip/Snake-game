@@ -1,0 +1,6 @@
+{
+  "name": "Snake Game",
+  "description": "A polished, responsive mobile-first Snake game with touch controls, retro themes, and multiple game modes designed specifically for Android-style mobile play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
